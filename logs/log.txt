@@ -1,0 +1,700 @@
+===========================
+Initialization
+======================================================
+START SIMULATION
+======================================================
+
+----------------------------------------------------------------------------
+Time : 0.0
+Min (milliseconds) : 0.0
+S14 Starts the loop section.
+S14 is waiting for data ...
+S16 Starts the loop section.
+S16 is waiting for data ...
+S21 Starts the loop section.
+S21 is waiting for data ...
+S4 Starts the loop section.
+S4 is waiting for data ...
+S5 Starts the loop section.
+S5 GET POSITION.
+S5 CPRINT [cprint, $pos]
+S5 READ SENSOR: X
+S5 PRINT [print, $v]
+S5 Read DATA: X
+S5 DATA Creation:null#-1.23046875#47.54687159892238
+S5 CPRINT [cprint, $co]
+S5 is writing the message : "null#-1.23046875#47.54687159892238" in its buffer.
+S6 Starts the loop section.
+S6 GET POSITION.
+S6 CPRINT [cprint, $pos]
+S6 READ SENSOR: X
+S6 PRINT [print, $v]
+S6 Read DATA: X
+S6 DATA Creation:null#-3.8706207275390625#48.577061426916785
+S6 CPRINT [cprint, $co]
+S6 is writing the message : "null#-3.8706207275390625#48.577061426916785" in its buffer.
+S10 Starts the loop section.
+S10 GET POSITION.
+S10 CPRINT [cprint, $pos]
+S10 READ SENSOR: X
+S10 PRINT [print, $v]
+S10 Read DATA: X
+S10 DATA Creation:null#-4.492925405502319#48.39247070859312
+S10 CPRINT [cprint, $co]
+S10 is writing the message : "null#-4.492925405502319#48.39247070859312" in its buffer.
+S11 Starts the loop section.
+S11 GET POSITION.
+S11 CPRINT [cprint, $pos]
+S11 READ SENSOR: X
+S11 PRINT [print, $v]
+S11 Read DATA: X
+S11 DATA Creation:null#-4.4957417249679565#48.393329170214535
+S11 CPRINT [cprint, $co]
+S11 is writing the message : "null#-4.4957417249679565#48.393329170214535" in its buffer.
+S13 Starts the loop section.
+S13 GET POSITION.
+S13 CPRINT [cprint, $pos]
+S13 READ SENSOR: S#24#0.0
+S13 PRINT [print, $v]
+S13 Read DATA: S#24#0.0
+S13 DATA Creation:0.0#-4.4958168268203735#48.394301598255595
+S13 CPRINT [cprint, $co]
+S13 is writing the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+S15 Starts the loop section.
+S15 GET POSITION.
+S15 CPRINT [cprint, $pos]
+S15 READ SENSOR: X
+S15 PRINT [print, $v]
+S15 Read DATA: X
+S15 DATA Creation:null#-4.492281675338745#48.392855414302694
+S15 CPRINT [cprint, $co]
+S15 is writing the message : "null#-4.492281675338745#48.392855414302694" in its buffer.
+S2 Starts the loop section.
+S2 GET POSITION.
+S2 CPRINT [cprint, $pos]
+S2 READ SENSOR: X
+S2 PRINT [print, $v]
+S2 Read DATA: X
+S2 DATA Creation:null#-4.493663012981415#48.392704026301296
+S2 CPRINT [cprint, $co]
+S2 is writing the message : "null#-4.493663012981415#48.392704026301296" in its buffer.
+S26 Starts the loop section.
+S26 GET POSITION.
+S26 CPRINT [cprint, $pos]
+S26 READ SENSOR: X
+S26 PRINT [print, $v]
+S26 Read DATA: X
+S26 DATA Creation:null#-4.49167013168335#48.394347904056744
+S26 CPRINT [cprint, $co]
+S26 is writing the message : "null#-4.49167013168335#48.394347904056744" in its buffer.
+S27 Starts the loop section.
+S27 GET POSITION.
+S27 CPRINT [cprint, $pos]
+S27 READ SENSOR: S#5#0.0
+S27 PRINT [print, $v]
+S27 Read DATA: S#5#0.0
+S27 DATA Creation:0.0#-4.492292404174805#48.39464710869174
+S27 CPRINT [cprint, $co]
+S27 is writing the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+S28 Starts the loop section.
+S28 GET POSITION.
+S28 CPRINT [cprint, $pos]
+S28 READ SENSOR: X
+S28 PRINT [print, $v]
+S28 Read DATA: X
+S28 DATA Creation:null#-4.491809606552124#48.39382785334261
+S28 CPRINT [cprint, $co]
+S28 is writing the message : "null#-4.491809606552124#48.39382785334261" in its buffer.
+S31 Starts the loop section.
+S31 is waiting for data ...
+S32 Starts the loop section.
+S32 is waiting for data ...
+S8 Starts the loop section.
+S8 GET POSITION.
+S8 CPRINT [cprint, $pos]
+S8 READ SENSOR: X
+S8 PRINT [print, $v]
+S8 Read DATA: X
+S8 DATA Creation:null#-4.496304988861084#48.393827853449324
+S8 CPRINT [cprint, $co]
+S8 is writing the message : "null#-4.496304988861084#48.393827853449324" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.72E-19
+Min (milliseconds) : 2.72E-19
+S5 is listening to the channel
+S5 the channel is free.
+S5 starts sending the message : "null#-1.23046875#47.54687159892238".
+S5 has finished sending the message : "null#-1.23046875#47.54687159892238" to the node: 
+S5 and S4.0have not the same protocol!
+
+----------------------------------------------------------------------------
+Time : 3.2E-19
+Min (milliseconds) : 4.8000000000000005E-20
+S27 is listening to the channel
+S27 the channel is free.
+S27 starts sending the message : "0.0#-4.492292404174805#48.39464710869174".
+S27 has finished sending the message : "0.0#-4.492292404174805#48.39464710869174" to the node: 
+S4 (radio: radio1) is receiving the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.2799999999999996E-19
+Min (milliseconds) : 7.999999999999977E-21
+S10 is listening to the channel
+S10 the channel is free.
+S10 starts sending the message : "null#-4.492925405502319#48.39247070859312".
+S10 has finished sending the message : "null#-4.492925405502319#48.39247070859312" to the node: 
+S10 and S4.0have not the same protocol!
+S26 is listening to the channel
+S26 the channel is free.
+S26 starts sending the message : "null#-4.49167013168335#48.394347904056744".
+S26 has finished sending the message : "null#-4.49167013168335#48.394347904056744" to the node: 
+S28 is listening to the channel
+S28 the channel is free.
+S28 starts sending the message : "null#-4.491809606552124#48.39382785334261".
+S28 has finished sending the message : "null#-4.491809606552124#48.39382785334261" to the node: 
+
+----------------------------------------------------------------------------
+Time : 3.36E-19
+Min (milliseconds) : 8.000000000000025E-21
+S13 is listening to the channel
+S13 the channel is free.
+S13 starts sending the message : "0.0#-4.4958168268203735#48.394301598255595".
+S13 has finished sending the message : "0.0#-4.4958168268203735#48.394301598255595" to the node: 
+S14 (radio: radio1) is receiving the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+S15 is listening to the channel
+S15 the channel is free.
+S15 starts sending the message : "null#-4.492281675338745#48.392855414302694".
+S15 has finished sending the message : "null#-4.492281675338745#48.392855414302694" to the node: 
+S15 and S4.0have not the same protocol!
+S2 is listening to the channel
+S2 the channel is free.
+S2 starts sending the message : "null#-4.493663012981415#48.392704026301296".
+S2 has finished sending the message : "null#-4.493663012981415#48.392704026301296" to the node: 
+S2 and S4.0have not the same protocol!
+S8 is listening to the channel
+S8 the channel is free.
+S8 starts sending the message : "null#-4.496304988861084#48.393827853449324".
+S8 has finished sending the message : "null#-4.496304988861084#48.393827853449324" to the node: 
+
+----------------------------------------------------------------------------
+Time : 3.4399999999999996E-19
+Min (milliseconds) : 7.999999999999977E-21
+S6 is listening to the channel
+S6 the channel is free.
+S6 starts sending the message : "null#-3.8706207275390625#48.577061426916785".
+S6 has finished sending the message : "null#-3.8706207275390625#48.577061426916785" to the node: 
+S6 and S4.0have not the same protocol!
+S11 is listening to the channel
+S11 the channel is free.
+S11 starts sending the message : "null#-4.4957417249679565#48.393329170214535".
+S11 has finished sending the message : "null#-4.4957417249679565#48.393329170214535" to the node: 
+
+----------------------------------------------------------------------------
+Time : 0.04562133333333333
+Min (milliseconds) : 0.04562133333333333
+S27 (radio: radio1) is receiving the message : "" in its buffer.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "0.0#-4.492292404174805#48.39464710869174" and puts it in v
+S4 PRINT [print, $v]
+S4 Read DATA: 0.0#-4.492292404174805#48.39464710869174
+S4 DATA Creation:-4.492292404174805#48.39464710869174
+S4 UNMARK
+S4 Starts the loop section.
+S4 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.0478
+Min (milliseconds) : 0.002178666666666669
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0.0#-4.4958168268203735#48.394301598255595" and puts it in v
+S14 PRINT [print, $v]
+S14 Read DATA: 0.0#-4.4958168268203735#48.394301598255595
+S14 DATA Creation:-4.4958168268203735#48.394301598255595
+S14 UNMARK
+S14 Starts the loop section.
+S14 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 0.045781333333333334
+Min (milliseconds) : -0.002018666666666669
+S27 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 0.04796
+Min (milliseconds) : 0.002178666666666669
+S13 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.0458019128635132
+Min (milliseconds) : 0.9978419128635131
+S27 has finished the delay.
+
+S27 Starts the loop section.
+S27 GET POSITION.
+S27 CPRINT [cprint, $pos]
+S27 READ SENSOR: S#5#0.0
+S27 PRINT [print, $v]
+S27 Read DATA: S#5#0.0
+S27 DATA Creation:0.0#-4.492292404174805#48.39464710869174
+S27 CPRINT [cprint, $co]
+S27 is writing the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0458019128635132
+Min (milliseconds) : 3.2E-19
+S27 starts sending the message : "0.0#-4.492292404174805#48.39464710869174".
+S27 has finished sending the message : "0.0#-4.492292404174805#48.39464710869174" to the node: 
+S4 (radio: radio1) is receiving the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.047943249021349
+Min (milliseconds) : 0.0021413361578357377
+S13 has finished the delay.
+
+S13 Starts the loop section.
+S13 GET POSITION.
+S13 CPRINT [cprint, $pos]
+S13 READ SENSOR: S#24#0.0
+S13 PRINT [print, $v]
+S13 Read DATA: S#24#0.0
+S13 DATA Creation:0.0#-4.4958168268203735#48.394301598255595
+S13 CPRINT [cprint, $co]
+S13 is writing the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.047943249021349
+Min (milliseconds) : 3.36E-19
+S13 starts sending the message : "0.0#-4.4958168268203735#48.394301598255595".
+S13 has finished sending the message : "0.0#-4.4958168268203735#48.394301598255595" to the node: 
+S14 (radio: radio1) is receiving the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 1.0914232461968465
+Min (milliseconds) : 0.043479997175497595
+S27 (radio: radio1) is receiving the message : "" in its buffer.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "0.0#-4.492292404174805#48.39464710869174" and puts it in v
+S4 PRINT [print, $v]
+S4 Read DATA: 0.0#-4.492292404174805#48.39464710869174
+S4 DATA Creation:-4.492292404174805#48.39464710869174
+S4 UNMARK
+S4 Starts the loop section.
+S4 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.095743249021349
+Min (milliseconds) : 0.004320002824502407
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0.0#-4.4958168268203735#48.394301598255595" and puts it in v
+S14 PRINT [print, $v]
+S14 Read DATA: 0.0#-4.4958168268203735#48.394301598255595
+S14 DATA Creation:-4.4958168268203735#48.394301598255595
+S14 UNMARK
+S14 Starts the loop section.
+S14 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 1.0915832461968467
+Min (milliseconds) : -0.004160002824502407
+S27 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 1.0959032490213492
+Min (milliseconds) : 0.004320002824502407
+S13 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.0915645574096504
+Min (milliseconds) : 0.9956613083883011
+S27 has finished the delay.
+
+S27 Starts the loop section.
+S27 GET POSITION.
+S27 CPRINT [cprint, $pos]
+S27 READ SENSOR: S#5#0.0
+S27 PRINT [print, $v]
+S27 Read DATA: S#5#0.0
+S27 DATA Creation:0.0#-4.492292404174805#48.39464710869174
+S27 CPRINT [cprint, $co]
+S27 is writing the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.0915645574096504
+Min (milliseconds) : 3.2E-19
+S27 starts sending the message : "0.0#-4.492292404174805#48.39464710869174".
+S27 has finished sending the message : "0.0#-4.492292404174805#48.39464710869174" to the node: 
+S4 (radio: radio1) is receiving the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.095840499738246
+Min (milliseconds) : 0.004275942328595406
+S13 has finished the delay.
+
+S13 Starts the loop section.
+S13 GET POSITION.
+S13 CPRINT [cprint, $pos]
+S13 READ SENSOR: S#24#0.0
+S13 PRINT [print, $v]
+S13 Read DATA: S#24#0.0
+S13 DATA Creation:0.0#-4.4958168268203735#48.394301598255595
+S13 CPRINT [cprint, $co]
+S13 is writing the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.095840499738246
+Min (milliseconds) : 3.36E-19
+S13 starts sending the message : "0.0#-4.4958168268203735#48.394301598255595".
+S13 has finished sending the message : "0.0#-4.4958168268203735#48.394301598255595" to the node: 
+S14 (radio: radio1) is receiving the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 2.137185890742984
+Min (milliseconds) : 0.04134539100473793
+S27 (radio: radio1) is receiving the message : "" in its buffer.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "0.0#-4.492292404174805#48.39464710869174" and puts it in v
+S4 PRINT [print, $v]
+S4 Read DATA: 0.0#-4.492292404174805#48.39464710869174
+S4 DATA Creation:-4.492292404174805#48.39464710869174
+S4 UNMARK
+S4 Starts the loop section.
+S4 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.143640499738246
+Min (milliseconds) : 0.006454608995262075
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0.0#-4.4958168268203735#48.394301598255595" and puts it in v
+S14 PRINT [print, $v]
+S14 Read DATA: 0.0#-4.4958168268203735#48.394301598255595
+S14 DATA Creation:-4.4958168268203735#48.394301598255595
+S14 UNMARK
+S14 Starts the loop section.
+S14 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 2.1373458907429836
+Min (milliseconds) : -0.006294608995262074
+S27 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 2.1438004997382456
+Min (milliseconds) : 0.006454608995262075
+S13 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.0100000000000002
+Min (milliseconds) : 0.8661995002617545
+S5 starts delaying for 1000.0 milliseconds
+S6 starts delaying for 1000.0 milliseconds
+S10 starts delaying for 1000.0 milliseconds
+S11 starts delaying for 1000.0 milliseconds
+S15 starts delaying for 1000.0 milliseconds
+S2 starts delaying for 1000.0 milliseconds
+S26 starts delaying for 1000.0 milliseconds
+S28 starts delaying for 1000.0 milliseconds
+S8 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.137327201955787
+Min (milliseconds) : 0.12732720195578695
+S27 has finished the delay.
+
+S27 Starts the loop section.
+S27 GET POSITION.
+S27 CPRINT [cprint, $pos]
+S27 READ SENSOR: S#5#0.0
+S27 PRINT [print, $v]
+S27 Read DATA: S#5#0.0
+S27 DATA Creation:0.0#-4.492292404174805#48.39464710869174
+S27 CPRINT [cprint, $co]
+S27 is writing the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.137327201955787
+Min (milliseconds) : 3.2E-19
+S27 starts sending the message : "0.0#-4.492292404174805#48.39464710869174".
+S27 has finished sending the message : "0.0#-4.492292404174805#48.39464710869174" to the node: 
+S4 (radio: radio1) is receiving the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.1437377504551423
+Min (milliseconds) : 0.006410548499355073
+S13 has finished the delay.
+
+S13 Starts the loop section.
+S13 GET POSITION.
+S13 CPRINT [cprint, $pos]
+S13 READ SENSOR: S#24#0.0
+S13 PRINT [print, $v]
+S13 Read DATA: S#24#0.0
+S13 DATA Creation:0.0#-4.4958168268203735#48.394301598255595
+S13 CPRINT [cprint, $co]
+S13 is writing the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.1437377504551423
+Min (milliseconds) : 3.36E-19
+S13 starts sending the message : "0.0#-4.4958168268203735#48.394301598255595".
+S13 has finished sending the message : "0.0#-4.4958168268203735#48.394301598255595" to the node: 
+S14 (radio: radio1) is receiving the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 3.1829485352891207
+Min (milliseconds) : 0.03921078483397826
+S27 (radio: radio1) is receiving the message : "" in its buffer.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "0.0#-4.492292404174805#48.39464710869174" and puts it in v
+S4 PRINT [print, $v]
+S4 Read DATA: 0.0#-4.492292404174805#48.39464710869174
+S4 DATA Creation:-4.492292404174805#48.39464710869174
+S4 UNMARK
+S4 Starts the loop section.
+S4 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.1915377504551423
+Min (milliseconds) : 0.008589215166021742
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0.0#-4.4958168268203735#48.394301598255595" and puts it in v
+S14 PRINT [print, $v]
+S14 Read DATA: 0.0#-4.4958168268203735#48.394301598255595
+S14 DATA Creation:-4.4958168268203735#48.394301598255595
+S14 UNMARK
+S14 Starts the loop section.
+S14 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 3.1831085352891204
+Min (milliseconds) : -0.008429215166021742
+S27 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 3.191697750455142
+Min (milliseconds) : 0.008589215166021742
+S13 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.009970903692249
+Min (milliseconds) : 0.8182731532371071
+S15 has finished the delay.
+
+S15 Starts the loop section.
+S15 GET POSITION.
+S15 CPRINT [cprint, $pos]
+S15 READ SENSOR: X
+S15 PRINT [print, $v]
+S15 Read DATA: X
+S15 DATA Creation:null#-4.492281675338745#48.392855414302694
+S15 CPRINT [cprint, $co]
+S15 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.009977308718527
+Min (milliseconds) : 6.405026278022419E-6
+S2 has finished the delay.
+
+S2 Starts the loop section.
+S2 GET POSITION.
+S2 CPRINT [cprint, $pos]
+S2 READ SENSOR: X
+S2 PRINT [print, $v]
+S2 Read DATA: X
+S2 DATA Creation:null#-4.493663012981415#48.392704026301296
+S2 CPRINT [cprint, $co]
+S2 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.009978062770436
+Min (milliseconds) : 7.540519091353559E-7
+S10 has finished the delay.
+
+S10 Starts the loop section.
+S10 GET POSITION.
+S10 CPRINT [cprint, $pos]
+S10 READ SENSOR: X
+S10 PRINT [print, $v]
+S10 Read DATA: X
+S10 DATA Creation:null#-4.492925405502319#48.39247070859312
+S10 CPRINT [cprint, $co]
+S10 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.009984254854057
+Min (milliseconds) : 6.192083621403555E-6
+S8 has finished the delay.
+
+S8 Starts the loop section.
+S8 GET POSITION.
+S8 CPRINT [cprint, $pos]
+S8 READ SENSOR: X
+S8 PRINT [print, $v]
+S8 Read DATA: X
+S8 DATA Creation:null#-4.496304988861084#48.393827853449324
+S8 CPRINT [cprint, $co]
+S8 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.009993583050253
+Min (milliseconds) : 9.328196195701466E-6
+S11 has finished the delay.
+
+S11 Starts the loop section.
+S11 GET POSITION.
+S11 CPRINT [cprint, $pos]
+S11 READ SENSOR: X
+S11 PRINT [print, $v]
+S11 Read DATA: X
+S11 DATA Creation:null#-4.4957417249679565#48.393329170214535
+S11 CPRINT [cprint, $co]
+S11 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.009993646059856
+Min (milliseconds) : 6.300960264660205E-8
+S28 has finished the delay.
+
+S28 Starts the loop section.
+S28 GET POSITION.
+S28 CPRINT [cprint, $pos]
+S28 READ SENSOR: X
+S28 PRINT [print, $v]
+S28 Read DATA: X
+S28 DATA Creation:null#-4.491809606552124#48.39382785334261
+S28 CPRINT [cprint, $co]
+S28 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.010003162132765
+Min (milliseconds) : 9.516072908999362E-6
+S6 has finished the delay.
+
+S6 Starts the loop section.
+S6 GET POSITION.
+S6 CPRINT [cprint, $pos]
+S6 READ SENSOR: X
+S6 PRINT [print, $v]
+S6 Read DATA: X
+S6 DATA Creation:null#-3.8706207275390625#48.577061426916785
+S6 CPRINT [cprint, $co]
+S6 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.0100143169785625
+Min (milliseconds) : 1.1154845796834678E-5
+S5 has finished the delay.
+
+S5 Starts the loop section.
+S5 GET POSITION.
+S5 CPRINT [cprint, $pos]
+S5 READ SENSOR: X
+S5 PRINT [print, $v]
+S5 Read DATA: X
+S5 DATA Creation:null#-1.23046875#47.54687159892238
+S5 CPRINT [cprint, $co]
+S5 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.01002579150979
+Min (milliseconds) : 1.1474531227406715E-5
+S26 has finished the delay.
+
+S26 Starts the loop section.
+S26 GET POSITION.
+S26 CPRINT [cprint, $pos]
+S26 READ SENSOR: X
+S26 PRINT [print, $v]
+S26 Read DATA: X
+S26 DATA Creation:null#-4.49167013168335#48.394347904056744
+S26 CPRINT [cprint, $co]
+S26 starts delaying for 1000.0 milliseconds
+
+----------------------------------------------------------------------------
+Time : 4.183089846501924
+Min (milliseconds) : 0.1730640549921345
+S27 has finished the delay.
+
+S27 Starts the loop section.
+S27 GET POSITION.
+S27 CPRINT [cprint, $pos]
+S27 READ SENSOR: S#5#0.0
+S27 PRINT [print, $v]
+S27 Read DATA: S#5#0.0
+S27 DATA Creation:0.0#-4.492292404174805#48.39464710869174
+S27 CPRINT [cprint, $co]
+S27 is writing the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.183089846501924
+Min (milliseconds) : 3.2E-19
+S27 starts sending the message : "0.0#-4.492292404174805#48.39464710869174".
+S27 has finished sending the message : "0.0#-4.492292404174805#48.39464710869174" to the node: 
+S4 (radio: radio1) is receiving the message : "0.0#-4.492292404174805#48.39464710869174" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.191635001172039
+Min (milliseconds) : 0.00854515467011474
+S13 has finished the delay.
+
+S13 Starts the loop section.
+S13 GET POSITION.
+S13 CPRINT [cprint, $pos]
+S13 READ SENSOR: S#24#0.0
+S13 PRINT [print, $v]
+S13 Read DATA: S#24#0.0
+S13 DATA Creation:0.0#-4.4958168268203735#48.394301598255595
+S13 CPRINT [cprint, $co]
+S13 is writing the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.191635001172039
+Min (milliseconds) : 3.36E-19
+S13 starts sending the message : "0.0#-4.4958168268203735#48.394301598255595".
+S13 has finished sending the message : "0.0#-4.4958168268203735#48.394301598255595" to the node: 
+S14 (radio: radio1) is receiving the message : "0.0#-4.4958168268203735#48.394301598255595" in its buffer.
+
+----------------------------------------------------------------------------
+Time : 4.2287111798352575
+Min (milliseconds) : 0.03707617866321859
+S27 (radio: radio1) is receiving the message : "" in its buffer.
+S4 Buffer available, exit waiting.
+S4 READ
+S4 is reading from its buffer "0.0#-4.492292404174805#48.39464710869174" and puts it in v
+S4 PRINT [print, $v]
+S4 Read DATA: 0.0#-4.492292404174805#48.39464710869174
+S4 DATA Creation:-4.492292404174805#48.39464710869174
+S4 UNMARK
+S4 Starts the loop section.
+S4 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.239435001172039
+Min (milliseconds) : 0.01072382133678141
+S13 (radio: radio1) is receiving the message : "" in its buffer.
+S14 Buffer available, exit waiting.
+S14 READ
+S14 is reading from its buffer "0.0#-4.4958168268203735#48.394301598255595" and puts it in v
+S14 PRINT [print, $v]
+S14 Read DATA: 0.0#-4.4958168268203735#48.394301598255595
+S14 DATA Creation:-4.4958168268203735#48.394301598255595
+S14 UNMARK
+S14 Starts the loop section.
+S14 is waiting for data ...
+
+----------------------------------------------------------------------------
+Time : 4.228871179835258
+Min (milliseconds) : -0.01056382133678141
+S27 starts delaying for 1000.0 milliseconds
